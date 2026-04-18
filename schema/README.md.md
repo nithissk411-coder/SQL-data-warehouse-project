@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Data Warehouse — SQL Project
+#  E-Commerce Data Warehouse — SQL Project
 
 This is my SQL project where I built a small data warehouse for an e-commerce system using MySQL.
 
@@ -6,7 +6,7 @@ I created tables like customers, products, orders, etc., and then wrote queries 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open MySQL Workbench and connect to your server.
 
@@ -19,9 +19,7 @@ I created tables like customers, products, orders, etc., and then wrote queries 
 4. Open `03_analytics.sql`
    → Run queries one by one to see results.
 
----
-
-## 📊 What I Did
+##  What I Did
 
 - Created tables (customers, products, orders)
 - Inserted sample data
@@ -29,7 +27,7 @@ I created tables like customers, products, orders, etc., and then wrote queries 
 
 ---
 
-## 📈 What I Found
+##  What I Found
 
 - Revenue trends
 - Best customers
@@ -38,7 +36,7 @@ I created tables like customers, products, orders, etc., and then wrote queries 
 
 ---
 
-## 🗂️ Files
+##  Files
 
 - 01_schema.sql
 - 02_seed_data.sql
@@ -46,7 +44,7 @@ I created tables like customers, products, orders, etc., and then wrote queries 
 
 ---
 
-## 💬 Simple Explanation
+##  Explanation
 
 I built a small e-commerce project using SQL where I created tables, added data, and analyzed it to get business insights.
 
